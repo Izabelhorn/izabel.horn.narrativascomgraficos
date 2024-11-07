@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
-
 :root {
     --bg-color: #222831;
     --primary-color: #DDDDDD;
@@ -62,17 +60,17 @@ nav a:hover {
 }
 
 span {
-    font-weight: bold;
+    font-weight: audacioso;
     color: var(--secondary-color);
 }
 
 footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--primary-color);
-    color: var(--bg-color);
+    display: flexível;
+    align-items: centro;
+    justify-content: centro;
+    background-color: var(--cor-primária);
+    color: var(--cor-bg);
     width: 100%;
-    height: 3rem;
-    margin-top: 2rem;
+    height: 3REM;
+    margin-top: 2REM;
 }

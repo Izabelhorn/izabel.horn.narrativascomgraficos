@@ -1,5 +1,3 @@
-import { criarGrafico, getCSS, incluirTexto } from "./common.js"
-
 async function redesSociaisFavoritasMinhaEscola() {
     const dadosLocaisString = localStorage.getItem('respostaRedesSociais')
     if (dadosLocaisString) {
