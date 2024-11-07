@@ -60,17 +60,17 @@ nav a:hover {
 }
 
 span {
-    font-weight: audacioso;
+    font-weight: bold;
     color: var(--secondary-color);
 }
 
 footer {
-    display: flexível;
-    align-items: centro;
-    justify-content: centro;
-    background-color: var(--cor-primária);
-    color: var(--cor-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
     width: 100%;
-    height: 3REM;
-    margin-top: 2REM;
+    height: 3rem;
+    margin-top: 2rem;
 }
